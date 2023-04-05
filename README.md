@@ -37,7 +37,7 @@ Se utilizan clases y enumeraciones para organizar el código y separar las respo
 3. Siga las instrucciones en pantalla para seleccionar las monedas de origen y destino, así como el monto que desea convertir.
 4. El programa mostrará el resultado de la conversión utilizando las tasas de cambio almacenadas en la clase `ConversionRate`.
 
-Nota: Las tasas de cambio utilizadas en este proyecto son solo ejempemple y pueden no ser precisas en el momento en que las use. Se recomienda actualizar las tasas de cambio en la clase `ConversionRate` antes de utilizar el programa.
+Nota: Las tasas de cambio utilizadas en este proyecto son solo ejemplo y pueden no ser precisas en el momento en que las use. Se recomienda actualizar las tasas de cambio en la clase `ConversionRate` antes de utilizar el programa.
 
 ## Contribuciones
 
